@@ -1,4 +1,4 @@
-# MPI-Programming
+# MPI Scalar Vector 
 Developed an MPI program that computes two scalar vector products and one dot product in C. Implemented functions to read the input/output files along with makefile that properly distributes the data. Used MPI functions that distributes input data from the size of the arrays and computes the product of scalar vectors. 
 
 # Program Requirements
